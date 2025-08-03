@@ -1,4 +1,4 @@
-# Cudtomer-Churn-Prediction
+# Customer-Churn-Prediction
 
 ## 📌 Project Overview
 This project aims to predict whether a customer will **churn (leave the company)** or not, using their demographic and account information. Churn prediction helps businesses retain customers.
